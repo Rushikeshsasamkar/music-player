@@ -1,2 +1,3 @@
-# music-player-1
-Created with CodeSandbox
+# CodingNinja-Music-Player-Project
+
+Created by Rushikesh Sasamkar
